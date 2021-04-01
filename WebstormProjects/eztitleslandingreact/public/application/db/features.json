@@ -1,0 +1,56 @@
+{"features": {
+    "ezTitles": [{
+      "title": "Subtitling Assistant",
+      "version": "release version 6.0.1",
+      "description": "EZTitles uses the power of AI The Assistant recognizes speech and generates captions in accordance with your criteria. Accurate Secure Effective.",
+      "description1": "Creating subtitles automatically.",
+      "description2": "The Assistant recognizes speech and generates captions according to your criteria.",
+      "description3": "Accurate, Secure, Effective.",
+      "link": "view more",
+      "feature_image": "http://localhost:3000/vids/cmdins.mp4",
+      "feature_animation":"localhost:3000/applications/i/ui3.png",
+      "color": {"background": "rgb(42,248,178) background: linear-gradient(153deg, rgba(42,248,178,1) 13%, rgba(41,36,243,1) 87%);"}
+    },{
+      "title": "Dragon Interaction",
+      "version": "release version 6.0.1",
+      "description": "Dragon Speech Recognition is now integrated with EZTitles.\nRest your wrists and type captions with your voice.\nFix mistakes and execute commands hands-free.",
+      "link": "view more",
+      "proprietary_link": "Designed by Freepik",
+      "feature_image": "localhost:3000/applications/i/ui1.png",
+      "feature_animation":"localhost:3000/applications/i/ui1.png",
+      "color": "#c1c1c1"
+    },{
+      "title": "Macros",
+      "version": "release version 6.0.1",
+      "description": "Record frequently repeated operations\nor code-in little programs which will save you tons of time.\nExecute them anytime with a quick shortcut.",
+      "link": "view more",
+      "feature_image": "localhost:3000/applications/i/ui4.png",
+      "feature_animation":"localhost:3000/applications/i/ui4.png",
+      "color": "#c1c1c1"
+    },{
+      "title": "File Comparison",
+      "version": "release version 6.0.1",
+      "description": "Find differences between subtitles’ text, positioning, format and timing.\nCompare projects easy\nexport differences fast.",
+      "link": "view more",
+      "feature_image": "localhost:3000/applications/i/ui4.png",
+      "feature_animation":"https://www.apple.com/v/mac/home/bb/images/overview/apple-card-q2-promo/apple_card__fmv6zrpwhxqq_large.jpg",
+      "color": "#c1c1c1"
+    },{
+      "title": "Backup & Recovery",
+      "version": "release version 6.0.1",
+      "description": "Never lose the work you’ve put into your project\nno matter the circumstances.",
+      "link": "view more",
+      "feature_image": "localhost:3000/applications/i/server.png",
+      "feature_animation":"https://www.apple.com/v/mac/home/bb/images/overview/apple-card-q2-promo/apple_card__fmv6zrpwhxqq_large.jpg",
+      "color": "#ffffff"
+    },{
+      "title": "Commands Insight",
+      "version": "release version 6.0.1",
+      "description": "Fast access to all commands in EZTitles.\nSearch in names and descriptions\ncheck shortcuts\nexecute with a single click.",
+      "link": "view more",
+      "feature_image": "localhost:3000/applications/i/ui2.png",
+      "feature_animation":"localhost:3000/applications/i/ui2.png",
+      "color": "#c1c1c1"
+    }]
+  }
+}
